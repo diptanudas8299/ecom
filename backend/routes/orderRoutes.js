@@ -16,3 +16,4 @@ orderRoutes.post("/list",adminAuth,allOrders)
 orderRoutes.post("/status",adminAuth,updateStatus)
 
 export default orderRoutes
+
